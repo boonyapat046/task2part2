@@ -40,6 +40,5 @@
 - 🔄 **เรียนรู้แบบค่อยเป็นค่อยไป** – Part 1 สอนพื้นฐาน, Part 2 ต่อยอด
 - 🧠 **ใช้เทคโนโลยีทันสมัย** – Modern CSS, ES6+, Git Workflow
 - 🤝 **ฝึกการทำงานเป็นทีม** – ผ่าน Pair Programming และ Git collaboration
-- 🧰 **ผลงานที่ใช้งานได้จริง** – เป็น Portfolio ที่สามารถนำไปใช้งานจริงได้
 - 🧩 **ครอบคลุมทักษะสำคัญ** – HTML5, CSS3, JavaScript, Git, Respo
 
